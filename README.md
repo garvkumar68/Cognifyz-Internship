@@ -63,10 +63,10 @@ During this period, I worked on various projects involving **data analysis**, **
 ---
 
 ## 📂 Folder Structure
-/Task-1_Predict-Ratings 
-/Task-2_Restaurant-Recommendation 
-/Task-3_Cuisine-Classification 
-/Task-4_Location-Analysis 
+/Task-1_Predict-Ratings <br>
+/Task-2_Restaurant-Recommendation <br>
+/Task-3_Cuisine-Classification <br>
+/Task-4_Location-Analysis <br>
 
 ---
 
